@@ -10,7 +10,7 @@ PV = "20120228"
 S = "${WORKDIR}/git"
 
 SRCREV = "0706c0cf5693e137e1fe64ce3f635d311cb8b063"
-SRC_URI = "git://github.com/Webconverger/iceweasel-webconverger.git;protocol=git \
+SRC_URI = "git://github.com/Webconverger/iceweasel-webconverger.git;protocol=https \
            file://unbind-f10-quit.patch \
            file://disable-C-l.patch"
 
